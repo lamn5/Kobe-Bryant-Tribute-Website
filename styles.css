@@ -1,0 +1,36 @@
+#main{
+    font-family: Telefon, sans-serif;
+    background: #F7F7F7;
+  }
+#title{
+    text-align: center;
+  }
+#img-div{
+    text-align:center;
+  }
+#img-caption {
+    margin-top:1em;
+}  
+#image{
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+  }
+#tribute-info{
+    text-align: center;
+    line-height: 1.5;
+  }
+ul{
+    display:inline-block;
+    text-align:left;
+    margin-left: 350px;
+    margin-right: 350px;
+  }
+#tribute-link{
+    color:#552583;
+  }
+#footer {
+    text-align: center; 
+    color: #552583
+}  
